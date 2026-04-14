@@ -1,8 +1,5 @@
 # Technical Documentation
 
-## Current Date
-2026-04-14
-
 ## Architecture
 Overview of the overall system architecture, including major components and their interactions.
 
